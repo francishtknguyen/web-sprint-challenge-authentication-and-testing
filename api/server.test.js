@@ -1,5 +1,4 @@
 const db = require("../data/dbConfig");
-const Users = require("../api/auth/auth-model");
 const request = require("supertest");
 const server = require("./server");
 
